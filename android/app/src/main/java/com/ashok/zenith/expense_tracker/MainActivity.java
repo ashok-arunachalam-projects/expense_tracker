@@ -1,4 +1,4 @@
-package com.zenith.expense_tracker;
+package com.ashok.zenith.expense_tracker;
 
 import io.flutter.embedding.android.FlutterActivity;
 
