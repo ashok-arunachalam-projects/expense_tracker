@@ -2,6 +2,6 @@
 
 import 'package:flutter/cupertino.dart';
 
-import 'user-inteface/ExpenseTrackerApp.dart';
+import 'user-inteface/expenseTrackerApp.dart';
 
 void main() => runApp(const ExpenseTrackerApp());

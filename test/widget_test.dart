@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-// import '../user-interface/lib/user-inteface/ExpenseTrackerApp.dart';
+// import '../user-interface/lib/user-inteface/expenseTrackerApp.dart';
 //
 // void main() {
 //   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
